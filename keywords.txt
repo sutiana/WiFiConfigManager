@@ -1,0 +1,21 @@
+#######################################
+
+Class Name
+#######################################
+WiFiConfigManager	KEYWORD1
+
+#######################################
+
+Public Methods
+#######################################
+beginAndRunInBackground	KEYWORD2
+clearAllCredentials		KEYWORD2
+startConfigPortalBlocking	KEYWORD2
+
+#######################################
+
+Enum Literals (Optional)
+#######################################
+MODE_STA	LITERAL1
+MODE_AP		LITERAL1
+
